@@ -1,2 +1,3 @@
-# QSharp-Adventures
-Sample codes to learn Q#
+# QSharp-adventures
+
+Sample codes for Q#
